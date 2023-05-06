@@ -67,12 +67,10 @@ I use fedora, vscode, zsh, pnpm, and firefox.
 
 ## Hardware
 
-- An old PC (I could use an newer one, but I don't)
-- Monitor: A 4K monitor
-- Mouse: Some cheap but good gaming mouse
-- Keyboard: Some crappy microsoft keyboard
 - Headphones: Don't need one, my ears have bluetooth
 - Smartphone: Google Pixel 7 with [GrapheneOS](https://grapheneos.org/)
+  - Launcher: [Kvaesitso](https://github.com/MM2-0/Kvaesitso)
+  - Music Player: [ViMusic](https://github.com/vfsfitvnm/ViMusic)
 
 ## OS
 
